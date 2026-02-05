@@ -1,0 +1,4 @@
+TOP_K=1000
+RETRIEVAL_MODEL_ID="llama3.2"
+OLLAMA_MODEL_BASE_URL="http://localhost:11434/v1"
+OLLAMA_MODEL_ID="llama3.2"
