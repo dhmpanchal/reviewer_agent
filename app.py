@@ -182,7 +182,7 @@ def main():
         task_output=result,
     )
     print("======= Reviewer Comment =======")
-    print(review.get("comment", ""))
+    print(f"Comment: {review.get('comment', '')}")
     print(f"Verdict: {review.get('verdict', '')}")
     print("===================================")
 
